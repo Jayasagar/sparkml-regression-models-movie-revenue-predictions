@@ -1,3 +1,21 @@
+
+
+### Background
+This dataset is inspired from below kaggle, as it simplified version of movie dataset.
+
+https://www.kaggle.com/kevinmariogerard/tmdb-movie-dataset/data
+
+During my research and implementation I took a few variables into account which could influence the revenue of a movie. The factors that I analysed and elaborated in this notebook are:
+
+popularity
+budget
+runtime
+genres
+vote_count
+vote_average
+release_year
+revenue
+
 #### Setup ####
 
 Note: Command only works for MAC or Linux, please check for Windows if you have
